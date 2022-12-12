@@ -92,7 +92,7 @@ const foodDetails = {
       description:
         "It is a chineese dish. It is a sweet delicious dish made out of marinated cauli flower, various knd of sauces.",
       imageUrl:
-        "https://www.kannammacooks.com/wp-content/uploads/chicken-manchurian-recipe-dry-restaurant-style-3.jpg",
+       "https://recipesofhome.com/wp-content/uploads/2020/04/gobi-manchurian-recipe-1024x683.jpg",
       id: "9"
     },
 
